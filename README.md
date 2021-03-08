@@ -9,4 +9,4 @@ Schedule a stock market finance data download job via apache airflow scheduler
 3. Use cloud storage as output of Spark jobs
 
 ## Output
-![img](https://github.com/bsathyamur/spark-ProcessData/blob/main/pic-out.png)
+![img](https://github.com/bsathyamur/apache-airflow-mini-project/blob/main/workflow-pic.png)
