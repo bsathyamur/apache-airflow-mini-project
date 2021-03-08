@@ -12,7 +12,9 @@ Task4: BashOperator to move the downloaded AAPL data files to the final location
 Task5: PythonOperator to process the data downloaded to the final location
 
 ## DAG dependency details
+
 Task0 >> Task1 >> Task3 >> Task5
+
 Task0 >> Task2 >> Task4 >> Task5
 
 ## Output
